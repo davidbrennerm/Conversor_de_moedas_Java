@@ -23,3 +23,6 @@ Este é um simples aplicativo de linha de comando para converter entre diferente
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+![Badge-Conversor](https://github.com/davidbrennerm/conversor_de-moedas_java/assets/80055694/3095dbc8-0770-4734-8158-c476e3b3a65b)
+
