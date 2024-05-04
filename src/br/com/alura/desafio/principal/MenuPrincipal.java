@@ -29,7 +29,7 @@ public class MenuPrincipal {
         while(true){
             System.out.println("""
                 *********************************************
-                Sejam ben-vindos(as) ao Conversor de Moedas =]
+                Sejam bem-vindos(as) ao Conversor de Moedas =]
                 
                 1) Dólar americano =>> Peso argentino
                 2) Peso argentino ==> Dólar americano
