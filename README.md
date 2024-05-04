@@ -9,8 +9,7 @@ Este é um simples aplicativo de linha de comando para converter entre diferente
 - Interface simples de linha de comando para facilitar a interação do usuário.
 
 <div align="center">
-  <img src="![Projeto Java Conversor de Moedas](https://github.com/davidbrennerm/conversor_de_moedas_java/assets/80055694/3e42d122-156c-4d96-b27c-077ac7778a2b)
-" alt="Menu do conversor de moedas">
+  <img src="https://private-user-images.githubusercontent.com/80055694/327972370-bf9942f0-ab46-47c9-87c4-6cd23decb354.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ4NTM3NzEsIm5iZiI6MTcxNDg1MzQ3MSwicGF0aCI6Ii84MDA1NTY5NC8zMjc5NzIzNzAtYmY5OTQyZjAtYWI0Ni00N2M5LTg3YzQtNmNkMjNkZWNiMzU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDIwMTExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRjOWRhOTUzYTEzNWI0MmJhNTNmZTJkOGIyZTNhNTQwYjliMmQ1NTBjMWYwZDBlZmQ0ZTYzY2YyZmUxZjRhNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0lnql5y2uA-DnqdrRtZJx_ht3GMoYIdQzODVtZna6BE" alt="Menu do conversor de moedas">
 </div>
 
 
@@ -28,8 +27,7 @@ Este é um simples aplicativo de linha de comando para converter entre diferente
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <div align="center">
-  <img src="![Badge-Conversor](https://github.com/davidbrennerm/conversor_de_moedas_java/assets/80055694/4f35643b-7153-4c36-80d5-55deca7b8881)
-" alt="bag alura desafio conversor de moedas">
+  <img src="https://private-user-images.githubusercontent.com/80055694/327972434-3095dbc8-0770-4734-8158-c476e3b3a65b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ4NTM3NzEsIm5iZiI6MTcxNDg1MzQ3MSwicGF0aCI6Ii84MDA1NTY5NC8zMjc5NzI0MzQtMzA5NWRiYzgtMDc3MC00NzM0LTgxNTgtYzQ3NmUzYjNhNjViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDIwMTExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwOGE5NWNhYTU4YWY1N2NiZGY1NDg4YjFlZTc4NGFhZDk1MjYwZTY3ZDA1YjVkMzAyMTIxNjkyZTdlNzdhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1Ty9N2mQ275GthEFgsgHxXCrmLOujthqxCXAwIcAPxs" alt="bag alura desafio conversor de moedas">
 </div>
 
 
