@@ -8,7 +8,10 @@ Este é um simples aplicativo de linha de comando para converter entre diferente
 - Utiliza a API de conversão de moedas [ExchangeRate-API](https://www.exchangerate-api.com/).
 - Interface simples de linha de comando para facilitar a interação do usuário.
 
-![Projeto Java Conversor de Moedas](https://github.com/davidbrennerm/conversor_de-moedas_java/assets/80055694/bf9942f0-ab46-47c9-87c4-6cd23decb354)
+<div align="center">
+  <img src="![Projeto Java Conversor de Moedas](https://github.com/davidbrennerm/conversor_de_moedas_java/assets/80055694/3e42d122-156c-4d96-b27c-077ac7778a2b)
+" alt="Menu do conversor de moedas">
+</div>
 
 
 ## Requisitos
@@ -24,5 +27,9 @@ Este é um simples aplicativo de linha de comando para converter entre diferente
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-![Badge-Conversor](https://github.com/davidbrennerm/conversor_de-moedas_java/assets/80055694/3095dbc8-0770-4734-8158-c476e3b3a65b)
+<div align="center">
+  <img src="![Badge-Conversor](https://github.com/davidbrennerm/conversor_de_moedas_java/assets/80055694/4f35643b-7153-4c36-80d5-55deca7b8881)
+" alt="bag alura desafio conversor de moedas">
+</div>
+
 
